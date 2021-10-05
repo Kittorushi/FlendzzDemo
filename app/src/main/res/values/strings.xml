@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flendzz Demo</string>
+
+
+    <string name="emp_details">Employee Details</string>
+    <string name="emp_list">Employee List</string>
+</resources>
